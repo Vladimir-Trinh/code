@@ -1,2 +1,4 @@
-import request
-print(request.get('https://checkip.amazonaws.com').text
+def test():
+  for x in range(10):
+    print("hello world")
+    
